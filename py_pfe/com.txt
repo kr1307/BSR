@@ -1,0 +1,1 @@
+/bin/python3 /home/gink13/py_pfe/test_op_cv_6.py --image /home/gink13/Téléchargements/cube1.jpg
